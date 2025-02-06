@@ -1,4 +1,9 @@
-👋 Hi there! I'm Tristan Matthew Matencio, a passionate **3rd-year Information Technology student** at the Polytechnic University of the Philippines, Sto. Tomas branch. I specialize in **database administration** and **web development**, aiming to design efficient, reliable, and scalable systems that solve real-world problems.  
+👋 Hi there! I'm Tristan Matthew Matencio, a passionate **3rd-year Information Technology student** at the Polytechnic University of the Philippines, Sto. Tomas branch. I specialize in **database administration** and **web development**, aiming to design efficient, reliable, and scalable systems that solve real-world problems.
+
+<div style="text-align: center;">
+  <img src="Aspiring Database AdministratorBack-End Developer.gif" width="900px">
+</div>
+
 ## 🛠️ Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
