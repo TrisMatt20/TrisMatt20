@@ -1,5 +1,5 @@
 ## 👋 Hi there! 
-I'm Tristan Matthew Matencio, a passionate **3rd-year Information Technology student** at the Polytechnic University of the Philippines, Sto. Tomas branch. I specialize in **database administration** and **backend development**, aiming to design efficient, reliable, and scalable systems that solve real-world problems.
+I'm Tristan Matthew Matencio, a passionate **3rd-year Information Technology student** at the Polytechnic University of the Philippines, Sto. Tomas branch. I specialize in **database administration** and **backend development**, with a commitment to designing secure, efficient, and scalable systems that meet real-world business and technology needs.
 
 ## 🛠️ Tech Stack  
 ### 🚀 Advanced  
