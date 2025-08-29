@@ -1,5 +1,5 @@
 ## 👋 Hi there! 
-I'm Tristan Matthew Matencio, a passionate **3rd-year Information Technology student** at the Polytechnic University of the Philippines, Sto. Tomas Campus. I specialize in *Full-Stack Software Development* with a forte in **backend development** using *PHP* and *MySQL* with a commitment to create programs/system that work.
+I'm Tristan Matthew Matencio, a passionate **4th-year Information Technology student** at the Polytechnic University of the Philippines, Sto. Tomas Campus. I specialize in *Full-Stack Software Development* with a forte in **backend development** using *PHP* and *MySQL* with a commitment to create programs/system that work.
 
 ## 🛠️ Tech Stack  
 ### 🚀 Advanced  
