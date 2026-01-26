@@ -1,5 +1,5 @@
 ## 👋 Hi there! 
-I’m Tristan Matthew Matencio, a 4th-year Information Technology student at the Polytechnic University of the Philippines – Sto. Tomas Campus. I’m a Full-Stack Software Developer with a strong interest in backend development.
+I’m Tristan Matthew Matencio, a 4th-year Information Technology student at the Polytechnic University of the Philippines – Sto. Tomas Campus. I’m a Full-Stack Software Engineer Intern with a strong interest in backend development.
 
 Currently, I’m gaining hands-on experience using Java, Spring Boot, Angular, React, and Oracle Database, with a solid foundation in PHP and MySQL. I enjoy building reliable, well-structured systems and continuously improving my skills through real-world projects.
 
